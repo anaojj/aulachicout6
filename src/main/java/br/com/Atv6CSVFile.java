@@ -22,5 +22,5 @@ public class Atv6CSVFile {
             System.out.println("An error occurred.");
             e.printStackTrace();
         }
+        }
     }
-}
